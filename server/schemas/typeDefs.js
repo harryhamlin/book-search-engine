@@ -11,7 +11,7 @@ type Mutation {
         password: String!
         ): Auth
     addUser(
-        name: String!
+        username: String!
         email: String!
         password: String!
     ): Auth
@@ -38,7 +38,7 @@ type User {
 
 type Book {
     bookId: String!
-    authors [String]
+    authors: [String]
     description: String
     title: String
     image: String
