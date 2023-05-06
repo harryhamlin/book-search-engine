@@ -10,8 +10,7 @@ This project reformatted a CRUD React application to use an Apollo backend.
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Contributing](#contributing)
-4. [Tests](#tests)
-5. [Questions](#questions)
+4. [Questions](#questions)
   
 
 
@@ -22,15 +21,13 @@ This application only has a working backend and is unfinished.
 
 ## Usage
 
-This project usage can be verified by using the Graphql sandbox.
+This project usage can be verified by using the Graphql sandbox. Included is a screenshot of the working app: 
+
+<img src="./assets/sandbox.jpg" />
 
 ## Contributing
 
 <a href="https://github.com/harryhamlin">github.com/harryhamlin</a>
-
-## Tests
-
-
 
 ## Questions
 
